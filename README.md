@@ -66,8 +66,12 @@ This project demonstrates a real-time RDP attack detection system using Azure Se
 ![image](https://github.com/YeranG30/Developing-SIEM-for-Immediate-RDP-Attack-Detection/assets/74067706/64428f8c-3b38-4457-ac29-00f905558209)
 
 
-- Global Map After 24 hours:
-  ```not done ```
+- Global Map:
+  
+Due to running out of API credits, the map couldn't capture all the data as intended. It would have shown additional traffic from India, the Philippines, and Taiwan, providing a more comprehensive view of the network activity
+
+<img width="489" alt="image" src="https://github.com/YeranG30/Developing-SIEM-for-Immediate-RDP-Attack-Detection/assets/74067706/3fd1d77c-10bd-4303-aa73-147c076c6998">
+
 
 # Conclusion: 
 Completing this Azure-based SIEM project, I've developed a deeper understanding of real-time cyber threat detection and response. Skills in cloud infrastructure, PowerShell scripting, and security log analysis were enhanced, alongside an appreciation for geolocation tracking and data visualization in cybersecurity. This experience has underscored the importance of proactive defense mechanisms in a continually evolving threat landscape.
