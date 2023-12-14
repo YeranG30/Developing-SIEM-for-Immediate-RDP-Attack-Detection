@@ -1,0 +1,2 @@
+# Developing-an-Azure-Based-SIEM-for-Immediate-RDP-Attack-Detection
+This project entails the creation of a specialized SIEM (Security Information and Event Management) system, leveraging the robust capabilities of Azure Sentinel. Utilizing PowerShell, I transformed Event Viewer logs into a dynamic, real-time mapping system for enhanced detection and visualization of RDP (Remote Desktop Protocol) attacks. 
