@@ -59,9 +59,11 @@ This project demonstrates a real-time RDP attack detection system using Azure Se
   ![image](https://github.com/YeranG30/Developing-an-Azure-Based-SIEM-for-Immediate-RDP-Attack-Detection/assets/74067706/914f8722-9be6-4c7e-931c-e02473397c34)
 
   
-- Azure Sentinel Intrusion Map:Display of the intrusion map after 1 hour of data collection, with annotations.
+- Azure Sentinel Intrusion Map & Logs: Display of the intrusion map after 1 hour of data collection, with annotations.
     
   <img width="584" alt="image" src="https://github.com/YeranG30/Developing-an-Azure-Based-SIEM-for-Immediate-RDP-Attack-Detection/assets/74067706/b7d034fd-3df5-4f85-b7df-651cd2382798">
+  <img width="763" alt="image" src="https://github.com/YeranG30/Developing-an-Azure-Based-SIEM-for-Immediate-RDP-Attack-Detection/assets/74067706/721df121-ff1f-4d80-84b1-352f8f95f358">
+
 
 - Global Map After 24 hours:
   ```not done ```
