@@ -68,7 +68,7 @@ This project demonstrates a real-time RDP attack detection system using Azure Se
 
 - Global Map:
   
-Due to running out of API credits, the map couldn't capture all the data as intended. It would have shown additional traffic from India, the Philippines, and Taiwan, providing a more comprehensive view of the network activity
+Due to running out of API credits, the Powershell script couldn't capture and send the data as intended to the SIEM. It would have shown additional traffic from India, the Philippines, and Taiwan, providing a more comprehensive view of the network activity
 
 <img width="489" alt="image" src="https://github.com/YeranG30/Developing-SIEM-for-Immediate-RDP-Attack-Detection/assets/74067706/3fd1d77c-10bd-4303-aa73-147c076c6998">
 
