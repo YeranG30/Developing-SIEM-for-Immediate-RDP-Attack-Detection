@@ -51,9 +51,6 @@ This project demonstrates a real-time RDP attack detection system using Azure Se
   
   ![image](https://github.com/YeranG30/Developing-an-Azure-Based-SIEM-for-Immediate-RDP-Attack-Detection/assets/74067706/6b870144-019e-42c9-a01a-7a4a5a084914)
 
-- Security Log Analysis: Process of examining the security logs to extract IP and location data.
-  
-  ![image](https://github.com/YeranG30/Developing-an-Azure-Based-SIEM-for-Immediate-RDP-Attack-Detection/assets/74067706/05a14a2e-cf4a-40af-82d9-ab246c94e5d6)
 
 - Identifying the Simulated logs: A guide on distinguishing between real and simulated attack data.
   ![image](https://github.com/YeranG30/Developing-an-Azure-Based-SIEM-for-Immediate-RDP-Attack-Detection/assets/74067706/914f8722-9be6-4c7e-931c-e02473397c34)
